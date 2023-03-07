@@ -5,7 +5,7 @@ branding:
   icon: 'code'
   color: 'black'
 runs:
-  using: 'node19'
+  using: 'node16'
 inputs:
   github_token:
     description: 'Token used to push built JS code to your GitHub repository (if in doubt, use "(dollar-sign){{ secrets.GITHUB_TOKEN }}")'
