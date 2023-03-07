@@ -1,4 +1,6 @@
 name: 'Build Javascript Code Archi Elite'
+icon: 'code'
+color: 'black'
 description: 'Get started with Container actions'
 author: 'GitHub'
 runs:
