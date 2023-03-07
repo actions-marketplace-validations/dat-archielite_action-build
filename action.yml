@@ -1,8 +1,9 @@
 name: 'Build Javascript Code Archi Elite'
-icon: 'code'
-color: 'black'
 description: 'Get started with Container actions'
 author: 'GitHub'
+branding:
+  icon: 'code'
+  color: 'black'
 runs:
   using: 'node19'
 inputs:
